@@ -50,7 +50,7 @@ body {
 }
 .banner {
     box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
-    background: #fff1b8 url(../img/121.png);
+    background: #fff1b8 url(../121.png);
     background-repeat: no-repeat;
     background-position: top right -500px;
     border-radius: 10px;
